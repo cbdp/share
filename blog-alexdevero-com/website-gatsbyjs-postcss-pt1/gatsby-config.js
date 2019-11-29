@@ -1,4 +1,4 @@
-// the config file you posted on https://blog.alexdevero.com/website-gatsbyjs-postcss-pt1/ didn't work for me.
+// the config file posted on https://blog.alexdevero.com/website-gatsbyjs-postcss-pt1/ didn't work for me.
 // below is the gatsby-config.js file with the changes I made in order to get it working on my end.
 
 module.exports = {
