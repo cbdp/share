@@ -1,7 +1,8 @@
 /**
- * Implement Gatsby's Node APIs in this file.
- *
- * See: https://www.gatsbyjs.org/docs/node-apis/
+ * Import to project with using
+ * npm install --save jquery
+ * then add this to contact.js
+ * import $ from 'jquery/dist/jquery.slim.min.js'
  */
 
 exports.onCreateWebpackConfig = ({
