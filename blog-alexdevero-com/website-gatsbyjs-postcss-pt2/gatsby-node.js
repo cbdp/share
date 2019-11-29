@@ -1,7 +1,7 @@
 /**
- * Import to project with using
+ * Import to project using first:
  * npm install --save jquery
- * then add this to contact.js
+ * then add this to contact.js:
  * import $ from 'jquery/dist/jquery.slim.min.js'
  */
 
